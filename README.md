@@ -25,3 +25,7 @@ $ source venv/bin/activate
 ``` bash
 $ pip install -r requirements.txt
 ```
+6. Starting the project
+```bash
+python main.py
+```
