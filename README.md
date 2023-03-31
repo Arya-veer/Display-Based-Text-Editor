@@ -29,3 +29,7 @@ $ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+## Contact Details
+In case this does not work then contact:
+Arya Veer Singh Chauhan - f20200094@pilani.bits-pilani.ac.in - 8619151680
