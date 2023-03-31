@@ -3,3 +3,25 @@ Readme file for Direct Manipulation Paradigm: Demonstration and Implementation u
 ## Project Setup
 
 1. Install python
+
+``` bash
+$ sudo apt-get update
+$ sudo apt-get install python3.10
+```
+2. Unzip the folder and go to the directory of folder
+3. Create a virtual environment
+
+``` bash
+$ python3 -m venv venv
+```
+4. Activate virtual environment
+
+For Linux
+``` bash
+$ source venv/bin/activate
+```
+
+5. Install all requirements
+``` bash
+$ pip install -r requirements.txt
+```
